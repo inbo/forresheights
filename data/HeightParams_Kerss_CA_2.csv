@@ -1,0 +1,8 @@
+"PlotID";"Species";"Model";"Source";"P1";"P2";"R";"Syx";"n";"BR";"Brondata";"Verklaring"
+"<ALL>";"<ALL>";"h=1,3+exp(P1+P2/d)";"all_species";3,8170997;-16,909366;0,904;3,777;339;"Kersselaerspleyn";"2eSET+3eSET KV + 11 CP's";"globale hoogtecurve van geclusterde soorten"
+"11001";"16";"h=1,3+exp(P1+P2/d)";"global";3,6002613;-12,147947;0,849;3,137;18;"Kersselaerspleyn";"2eSET+3eSET KV + alle CP's";"eigen curve: voldoende bomen voor de soort beschikbaar"
+"11001";"66";"h=1,3+exp(P1+P2/d)";"all_species";3,8170997;-16,909366;NA;NA;0;"Kersselaerspleyn";"2eSET+3eSET KV + 11 CP's";"globale hoogtecurve van geclusterde soorten"
+"11001";"7";"h=1,3+exp(P1+P2/d)";"global";3,8386681;-15,683571;0,938;3,505;209;"Kersselaerspleyn";"2eSET+3eSET KV + 11 CP's";"eigen curve: voldoende bomen voor de soort beschikbaar"
+"11001";"77";"h=1,3+exp(P1+P2/d)";"all_species";3,8170997;-16,909366;NA;NA;0;"Kersselaerspleyn";"2eSET+3eSET KV + 11 CP's";"globale hoogtecurve van geclusterde soorten"
+"11001";"87";"h=1,3+exp(P1+P2/d)";"global";3,7829598;-18,329177;0,853;3,024;100;"Kersselaerspleyn";"2eSET+3eSET KV + alle CP's";"eigen curve: voldoende bomen voor de soort beschikbaar"
+"<ALL>";"27";"h=1,3+exp(P1+P2/d)";"global";3,5310216;-10,917172;0,852;3,364;98;"Kersselaerspleyn";"2e+3eSET CP's Kerss+Zwaen";"eigen curve: voldoende bomen voor de soort beschikbaar"
