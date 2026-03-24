@@ -1,0 +1,30 @@
+"PlotID";"Species";"Model";"Source";"P1";"P2";"R";"Syx";"n";"info";"BR";"Brondata";"Verklaring";"boomsoort"
+"<ALL>";"<ALL>";"h=1,3+exp(P1+P2/d)";"global";3,5472795;-13,581433;0,9;3,548;281;NA;"Kolmont";"3eSET";"eigen curve: voldoende bomen voor de soort beschikbaar";NA
+"<ALL>";"87";"h=1,3+exp(P1+P2/d)";"global";3,703677;-22,372861;0,557;3,79;88;NA;"Kolmont";"3eSET";"eigen curve: voldoende bomen voor de soort beschikbaar";NA
+"<ALL>";"16";"h=1,3+exp(P1+P2/d)";"global";3,4059444;-9,5683968;0,922;2,399;35;NA;"Kolmont";"3eSET";"eigen curve: voldoende bomen voor de soort beschikbaar";NA
+"<ALL>";"7";"h=1,3+exp(P1+P2/d)";"global";3,5284922;-10,833009;0,897;3,741;33;NA;"Kolmont";"3eSET";"eigen curve: voldoende bomen voor de soort beschikbaar";NA
+"<ALL>";"27";"h=1,3+exp(P1+P2/d)";"global";3,3189616;-11,675845;0,926;1,718;27;NA;"Kolmont";"3eSET";"eigen curve: voldoende bomen voor de soort beschikbaar";NA
+"<ALL>";"14";"h=1,3+exp(P1+P2/d)";"global";3,6410688;-13,649208;0,925;2,811;18;NA;"Kolmont";"3eSET";"eigen curve: voldoende bomen voor de soort beschikbaar";NA
+"<ALL>";"9";"h=1,3+exp(P1+P2/d)";"global";3,4589356;-11,179602;0,868;2,188;17;NA;"Kolmont";"3eSET";"eigen curve: voldoende bomen voor de soort beschikbaar";NA
+"<ALL>";"64";"h=1,3+exp(P1+P2/d)";"global";3,5429915;-19,399358;0,809;4,035;11;NA;"Kolmont";"3eSET";"eigen curve: voldoende bomen voor de soort beschikbaar";NA
+"<ALL>";"3";"h=1,3+exp(P1+P2/d)";"global";3,5792954;-18,531334;0,478;2,74;10;NA;"Kolmont";"3eSET";"eigen curve: voldoende bomen voor de soort beschikbaar";NA
+"1799";"39";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,4593486;-13,581433;NA;NA;7;NA;"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";NA
+"1799";"28";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,5261064;-13,581433;NA;NA;6;"enkel hakhout - 6 metingen";"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";"hazelaar"
+"1799";"53";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,3810021;-13,581433;NA;NA;6;NA;"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";NA
+"1799";"57";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,5818626;-13,581433;NA;NA;5;NA;"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";NA
+"1799";"24";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,6590023;-13,581433;NA;NA;4;NA;"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";NA
+"1799";"18";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,5578809;-13,581433;NA;NA;3;NA;"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";NA
+"1799";"58";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,5943975;-13,581433;NA;NA;3;"enkel hakhout - 3 metingen";"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";"ruwe iep"
+"1799";"26";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,4706949;-13,581433;NA;NA;2;NA;"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";NA
+"1799";"80";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,6772675;-13,581433;NA;NA;2;NA;"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";NA
+"1799";"17";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,6493632;-13,581433;NA;NA;1;NA;"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";NA
+"1799";"23";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,571905;-13,581433;NA;NA;1;NA;"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";NA
+"1799";"71";"h=1,3+exp(P1+P2/d)";"all_species";3,5472795;-13,581433;NA;NA;1;"enkel hakhout - 1meting => niet gebruiken";"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten";"vogelkers"
+"1799";"81";"h=1,3+exp(P1+P2/d)";"adjusted_all_species";3,4003956;-13,581433;NA;NA;1;NA;"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten, intercept aangepast aan soort";NA
+"1799";"13";"h=1,3+exp(P1+P2/d)";"all_species";3,5472795;-13,581433;NA;NA;0;"geen metingen";"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten";NA
+"1799";"41";"h=1,3+exp(P1+P2/d)";"all_species";3,5472795;-13,581433;NA;NA;0;"geen metingen";"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten";NA
+"1799";"67";"h=1,3+exp(P1+P2/d)";"all_species";3,5472795;-13,581433;NA;NA;0;"geen metingen";"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten";NA
+"1799";"69";"h=1,3+exp(P1+P2/d)";"all_species";3,5472795;-13,581433;NA;NA;0;"geen metingen";"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten";NA
+"1799";"86";"h=1,3+exp(P1+P2/d)";"all_species";3,5472795;-13,581433;NA;NA;0;"geen metingen";"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten";NA
+NA;"40";"h=1,3+exp(P1+P2/d)";"all_species";3,5472795;-13,581433;NA;NA;0;"geen metingen (enkel dood)";"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten";"Lork species"
+NA;"51";"h=1,3+exp(P1+P2/d)";"all_species";3,5472795;-13,581433;NA;NA;0;"geen metingen (enkel dood)";"Kolmont";"3eSET";"globale hoogtecurve van geclusterde soorten";"Populier species"
